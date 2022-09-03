@@ -1,0 +1,38 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+
+}
+body{
+    background-size: cover;
+}
+.speed{
+    float: left;
+
+}
+.volume_img,.speed_img{
+    width: 200px;
+    border-radius: 100px;
+
+}
+#speed_meter,#volmue_meter{
+    font-size: 23px;
+    margin: 15px;
+
+}
+.volume{
+    float: right;
+}
+.playbtn{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
